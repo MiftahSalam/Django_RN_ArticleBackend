@@ -1,0 +1,3 @@
+[submodule "rn-fist-app"]
+	path = rn-fist-app
+	url = https://github.com/MiftahSalam/Django_RN_ArticleMobileApps
